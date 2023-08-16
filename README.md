@@ -1,2 +1,3 @@
 # simpleChat-OCSF
-Implementing a simple chat application using the OCSF framework 
+A point-to-point chat application over a network using the OCSF framework
+
